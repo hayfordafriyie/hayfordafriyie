@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **EdSpike and EdTech Solution**
+ 🔭 I’m currently working on **EdSpike an EdTech Solution**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/hayfordafriyie/hayfordafriyie/issues)**
 
