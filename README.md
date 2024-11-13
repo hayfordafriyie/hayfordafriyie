@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
- 
+  [![committers.top badge](https://user-badge.committers.top/ghana/hayfordafriyie.svg)](https://user-badge.committers.top/ghana/hayfordafriyie)
  🔭 I’m currently working on **EdSpike an EdTech Solution**
 
 
@@ -19,7 +19,7 @@
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
- [![committers.top badge](https://user-badge.committers.top/ghana/hayfordafriyie.svg)](https://user-badge.committers.top/ghana/hayfordafriyie)
+
 <div align="center"> 
   <a href="mailto:hayfordafriyie@protonmail.ch">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
