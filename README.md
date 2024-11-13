@@ -11,7 +11,7 @@
 <div align="center">
  
  🔭 I’m currently working on **EdSpike an EdTech Solution**
- [![committers.top badge](https://user-badge.committers.top/ghana/USERNAME.svg)](https://user-badge.committers.top/ghana/hayfordafriyie)
+[![committers.top badge](https://user-badge.committers.top/ghana/USERNAME.svg)](https://user-badge.committers.top/ghana/USERNAME)
 
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/hayfordafriyie/hayfordafriyie/issues)**
