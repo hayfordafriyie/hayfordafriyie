@@ -1,29 +1,25 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hayfordafriyie.hayfordafriyie" />
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hayford+Afriyie!;" />
-</h1>
-
-<h3 align="center">A passionate software developer from Ghana 🇬🇭</h3>
-
-<br />
+# Hi There! 👋 I'm **Hayford Afriyie**  
+A passionate software developer from **Ghana 🇬🇭**
 
 <div align="center">
-  <a href="https://user-badge.committers.top/ghana/hayfordafriyie.svg">
-    [![committers.top badge](https://user-badge.committers.top/ghana/hayfordafriyie.svg)](https://user-badge.committers.top/ghana/hayfordafriyie)
-  </a>
-  <p>🔭 I’m currently working on <b>EdSpike, an EdTech Solution</b></p>
-  <p>💬 Ask me about <b>Node.js, React, Firebase...</b> or anything <a href="https://github.com/hayfordafriyie/hayfordafriyie/issues">here</a></p>
-  <p>⚡ Fun fact: Game of Thrones Night's Watch cloaks are made from Ikea rugs</p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hayford+Afriyie!;" />
 </div>
 
-<br />
+---
+
+### 🔭 I’m currently working on **[EdSpike, an EdTech Solution](https://github.com/hayfordafriyie/EdSpike)**
+
+💬 Ask me about **Node.js, React, Firebase**... or anything by [creating an issue here](https://github.com/hayfordafriyie/hayfordafriyie/issues).
+
+⚡ Fun fact: **Game of Thrones Night's Watch cloaks are made from Ikea rugs.**
+
+---
 
 <div align="center">
   <a href="mailto:hayfordafriyie@protonmail.ch">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/hayford-afriyie-26b34b207" target="_blank">
+  <a href="https://www.linkedin.com/in/hayford-afriyie-26b34b207/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://hayfordafriyie.com" target="_blank">
@@ -31,29 +27,56 @@
   </a>
 </div>
 
-<hr />
+---
 
-<h2 align="center">⚒️ Languages, Frameworks & Tools ⚒️</h2>
+### ⚒️ Technologies & Tools:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
 </div>
 
-<hr />
+---
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+### 🐍 My Contributions
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hayfordafriyie/hayfordafriyie/output/github-contribution-grid-snake.svg" />
 </div>
 
-<hr />
+---
 
-<h2 align="center">⚡ Stats ⚡</h2>
+### ⚡ GitHub Stats:
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=hayfordafriyie&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=hayfordafriyie&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br />
+  <img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hayfordafriyie&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+
+---
+
+### 🚀 My GitHub Contributions:
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=hayfordafriyie&theme=react-dark&bg_color=0d1117&color=8e44ad&line=9b59b6&point=ffffff&area=true&hide_border=true" alt="GitHub Contributions" />
+</div>
+
+---
+
+### 🌱 Currently Learning:
+
+- Cloud Computing & DevOps (AWS, Docker, Kubernetes)
+- Mobile Development (React Native)
+
+---
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hayfordafriyie.hayfordafriyie" alt="Visitor Badge" />
+</div>
+
+---
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+👨‍💻" />
+</h2>
