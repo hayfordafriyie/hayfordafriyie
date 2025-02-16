@@ -7,7 +7,12 @@ A passionate software developer from **Ghana 🇬🇭**
 
 ---
 
-### 🔭 I’m currently working on **[EdSpike, an EdTech Solution](https://github.com/hayfordafriyie/EdSpike)**
+### 👨‍💻 About Me:
+I'm **Hayford Afriyie**, a passionate software developer from **Ghana 🇬🇭** with expertise in languages and frameworks like **Rust, Python, JavaScript, Node.js, React, Vue.js**, and many others. I specialize in both front-end and back-end development, working with relational and NoSQL databases, and building modern web and mobile applications.
+
+---
+
+### 🔭 I’m currently working on **[EDSPiKE, an EdTech Solution](https://edspike.com)**
 
 💬 Ask me about **Node.js, React, Firebase**... or anything by [creating an issue here](https://github.com/hayfordafriyie/hayfordafriyie/issues).
 
@@ -29,11 +34,13 @@ A passionate software developer from **Ghana 🇬🇭**
 
 ---
 
-### ⚒️ Technologies & Tools:
+### ⚙️ Technologies & Tools:
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r,nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
-</div>
+- **Languages**: Rust, Python, JavaScript, TypeScript, C, C#, Ruby, Java
+- **Frontend**: React, Vue, Angular, Next.js, React Native, Flutter
+- **Backend**: Node.js, Deno, Express.js, Flask, Firebase
+- **Databases**: MySQL, PostgreSQL, MongoDB, SQLite, SQL Server
+- **Tools**: Git, Docker, Kubernetes, AWS, Figma, VSCode, Tailwind CSS
 
 ---
 
@@ -64,19 +71,12 @@ A passionate software developer from **Ghana 🇬🇭**
 
 ---
 
-### 🌱 Currently Learning:
-
-- Cloud Computing & DevOps (AWS, Docker, Kubernetes)
-- Mobile Development (React Native)
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+👨‍💻" />
+</h2>
 
 ---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=hayfordafriyie.hayfordafriyie" alt="Visitor Badge" />
 </div>
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Thanks+for+visiting!+👨‍💻" />
-</h2>
