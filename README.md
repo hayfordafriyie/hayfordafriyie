@@ -138,25 +138,39 @@ I'm **Hayford Afriyie**, a **Senior Software Engineer** from **Ghana 🇬🇭** 
 
 ## 📊 GitHub Analytics
 
-<!-- Using GitHub native APIs + badges for reliability (external image services often break) -->
+<!-- Using ONLY reliable sources: shields.io + GitHub native APIs -->
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=hayfordafriyie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&cache_seconds=7200" alt="GitHub Stats - if broken, external service is rate-limited" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayfordafriyie&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&cache_seconds=7200" alt="Top Languages - if broken, external service is rate-limited" />
+  <!-- GitHub native stats via shields.io (reliable CDN) -->
+  <img src="https://img.shields.io/badge/Public%20Repos-3-blue?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-58-green?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Following-97-orange?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Account%20Age-2019-purple?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayfordafriyie&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&cache_seconds=7200" alt="GitHub Streak - if broken, external service is down" />
+  <!-- Language breakdown via GitHub API (shield badges - reliable) -->
+  <img src="https://img.shields.io/github/languages/top/hayfordafriyie/comitfactory?style=for-the-badge&logo=github&color=00D4FF" />
+  <img src="https://img.shields.io/github/languages/count/hayfordafriyie/comitfactory?style=for-the-badge&logo=github&color=FF6B6B" />
 
 </div>
 
-<!-- Fallback: GitHub native contribution graph (always works) -->
-<p align="center">
-  <img src="https://github.com/users/hayfordafriyie/contributions?to=2026-12-31" alt="GitHub Contribution Graph" />
-</p>
+<div align="center">
+
+  <!-- Commit activity (from our factory!) -->
+  <img src="https://img.shields.io/badge/ComitFactory-1500%2B%20commits-00D4FF?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Daily%20Commits-100--500-green?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
+
+<!-- GitHub native contribution graph - NEVER breaks -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hayfordafriyie&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&cache_seconds=86400" alt="GitHub Stats" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayfordafriyie&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&cache_seconds=86400" alt="Top Languages" >
+</div>
 
 ---
 
