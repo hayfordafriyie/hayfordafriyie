@@ -124,6 +124,7 @@ I'm **Hayford Afriyie**, a **Senior Software Engineer** from **Ghana 🇬🇭** 
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Caddy-1F8ECE?style=for-the-badge&logo=caddy&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -140,17 +141,17 @@ I'm **Hayford Afriyie**, a **Senior Software Engineer** from **Ghana 🇬🇭** 
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hayfordafriyie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hayfordafriyie&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&cache_seconds=1800" alt="GitHub Stats" />
   
   <!-- Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayfordafriyie&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayfordafriyie&layout=compact&langs_count=20&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9&cache_seconds=1800" alt="Top Languages" />
 
 </div>
 
 <div align="center">
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayfordafriyie&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hayfordafriyie&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&cache_seconds=1800" alt="GitHub Streak" />
 
 </div>
 
@@ -158,8 +159,13 @@ I'm **Hayford Afriyie**, a **Senior Software Engineer** from **Ghana 🇬🇭** 
 
 ## 🐍 Contribution Graph
 
+<!-- Snake animation requires GitHub Actions workflow at .github/workflows/snake.yml -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hayfordafriyie/hayfordafriyie/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hayfordafriyie/hayfordafriyie/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hayfordafriyie/hayfordafriyie/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hayfordafriyie/hayfordafriyie/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
