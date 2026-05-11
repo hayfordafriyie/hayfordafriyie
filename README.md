@@ -158,13 +158,7 @@ I'm **Hayford Afriyie**, a **Senior Software Engineer** from **Ghana 🇬🇭** 
 
 </div>
 
-<div align="center">
 
-  <!-- Commit activity (from our factory!) -->
-  <img src="https://img.shields.io/badge/ComitFactory-1500%2B%20commits-00D4FF?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Daily%20Commits-100--500-green?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
 
 <!-- GitHub native contribution graph - NEVER breaks -->
 <div align="center">
