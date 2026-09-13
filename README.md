@@ -140,7 +140,7 @@ I also build for the African market, where offline tolerance, SMS-first UX, and 
 
 <img width="700" alt="Hayford Afriyie GitHub profile summary: total contributions, public repositories and one-year contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hayfordafriyie&theme=blue_green&v=20260913" />
 
-<img width="495" alt="Hayford Afriyie total contributions, current streak and longest streak" src="https://streak-stats.demolab.com/?user=hayfordafriyie&hide_border=true&background=00000000&stroke=34D399&ring=34D399&fire=34D399&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=34D399&sideLabels=8B949E&dates=8B949E&cache_bust=20260913" />
+<img width="495" alt="Hayford Afriyie total contributions, current streak and longest streak" src="https://streak-stats.demolab.com/?user=hayfordafriyie&hide_border=true&background=00000000&stroke=34D399&ring=34D399&fire=34D399&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=34D399&sideLabels=8B949E&dates=8B949E&hide_total_contributions=true&cache_bust=20260913" />
 
 </div>
 
