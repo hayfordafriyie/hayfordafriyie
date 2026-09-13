@@ -73,10 +73,12 @@ My work runs from **distributed web platforms** (realtime APIs, job queues, obse
 
 <div align="center">
 
-<img height="160" alt="Hayford Afriyie GitHub statistics: commits, stars and pull requests" src="https://github-readme-stats.vercel.app/api?username=hayfordafriyie&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00D4FF&icon_color=00D4FF&text_color=8B949E" />
-<img height="160" alt="Hayford Afriyie most used programming languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayfordafriyie&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=00D4FF&text_color=8B949E" />
+<img width="700" alt="Hayford Afriyie GitHub profile summary: total contributions, public repositories and one-year contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hayfordafriyie&theme=github_dark" />
 
-<img alt="Hayford Afriyie contribution streak and long-running development activity" src="https://github-readme-streak-stats.herokuapp.com/?user=hayfordafriyie&hide_border=true&background=00000000&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=8B949E&dates=8B949E" />
+<img width="340" alt="Hayford Afriyie GitHub statistics: total stars, commits, pull requests and issues" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hayfordafriyie&theme=github_dark" />
+<img width="340" alt="Hayford Afriyie most used programming languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hayfordafriyie&theme=github_dark" />
+
+<img width="495" alt="Hayford Afriyie total contributions, current streak and longest streak" src="https://streak-stats.demolab.com/?user=hayfordafriyie&hide_border=true&background=00000000&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=8B949E&dates=8B949E" />
 
 </div>
 
