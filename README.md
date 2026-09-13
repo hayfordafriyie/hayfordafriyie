@@ -46,6 +46,21 @@ I also build for the African market, where offline tolerance, SMS-first UX, and 
 
 ---
 
+## Stack
+
+| Domain | Tools |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-0A0F0D?style=flat-square&logo=go&logoColor=00ADD8) ![TypeScript](https://img.shields.io/badge/TypeScript-0A0F0D?style=flat-square&logo=typescript&logoColor=3178C6) ![Python](https://img.shields.io/badge/Python-0A0F0D?style=flat-square&logo=python&logoColor=3776AB) ![C](https://img.shields.io/badge/C-0A0F0D?style=flat-square&logo=c&logoColor=A8B9CC) ![C#](https://img.shields.io/badge/C%23-0A0F0D?style=flat-square&logo=dotnet&logoColor=512BD4) ![Rust](https://img.shields.io/badge/Rust-0A0F0D?style=flat-square&logo=rust&logoColor=white) |
+| **Systems & Low-Level** | ![C](https://img.shields.io/badge/C-0A0F0D?style=flat-square&logo=c&logoColor=A8B9CC) ![Assembly](https://img.shields.io/badge/Assembly-0A0F0D?style=flat-square&logo=assemblyscript&logoColor=007AAC) ![Rust](https://img.shields.io/badge/Rust-0A0F0D?style=flat-square&logo=rust&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-0A0F0D?style=flat-square&logo=linux&logoColor=FCC624) |
+| **Backend & APIs** | ![Go](https://img.shields.io/badge/Go-0A0F0D?style=flat-square&logo=go&logoColor=00ADD8) ![GraphQL](https://img.shields.io/badge/GraphQL-0A0F0D?style=flat-square&logo=graphql&logoColor=E10098) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-0A0F0D?style=flat-square&logo=dotnet&logoColor=512BD4) ![Node.js](https://img.shields.io/badge/Node.js-0A0F0D?style=flat-square&logo=nodedotjs&logoColor=5FA04E) |
+| **Web & Frontend** | ![React](https://img.shields.io/badge/React-0A0F0D?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-0A0F0D?style=flat-square&logo=vite&logoColor=646CFF) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-0A0F0D?style=flat-square&logo=reactquery&logoColor=FF4154) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0F0D?style=flat-square&logo=tailwindcss&logoColor=06B6D4) ![Radix UI](https://img.shields.io/badge/Radix_UI-0A0F0D?style=flat-square&logo=radixui&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-0A0F0D?style=flat-square&logo=reactrouter&logoColor=CA4245) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F0D?style=flat-square&logo=postgresql&logoColor=4169E1) ![Redis](https://img.shields.io/badge/Redis-0A0F0D?style=flat-square&logo=redis&logoColor=DC382D) ![SQLite](https://img.shields.io/badge/SQLite-0A0F0D?style=flat-square&logo=sqlite&logoColor=003B57) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-0A0F0D?style=flat-square&logo=elasticsearch&logoColor=005571) |
+| **Infrastructure & Cloud** | ![Docker](https://img.shields.io/badge/Docker-0A0F0D?style=flat-square&logo=docker&logoColor=2496ED) ![Kubernetes](https://img.shields.io/badge/Kubernetes-0A0F0D?style=flat-square&logo=kubernetes&logoColor=326CE5) ![Caddy](https://img.shields.io/badge/Caddy-0A0F0D?style=flat-square&logo=caddy&logoColor=1F8ECE) ![Traefik](https://img.shields.io/badge/Traefik-0A0F0D?style=flat-square&logo=traefikproxy&logoColor=24A1C1) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0F0D?style=flat-square&logo=githubactions&logoColor=2088FF) ![Terraform](https://img.shields.io/badge/Terraform-0A0F0D?style=flat-square&logo=terraform&logoColor=7B42BC) ![AWS](https://img.shields.io/badge/AWS-0A0F0D?style=flat-square&logo=amazonaws&logoColor=FF9900) |
+
+<sub>Go · TypeScript · Python · C · C# · Rust · SQL · Bash · Assembly · Linux · GraphQL · ASP.NET Core · Node.js · React · Vite · TanStack Query · Tailwind CSS · Radix UI · React Router · PostgreSQL · Redis · SQLite · Elasticsearch · EF Core · Docker · Kubernetes · Caddy · Traefik · GitHub Actions · Terraform · AWS</sub>
+
+---
+
 ## Selected Work
 
 <table>
@@ -116,45 +131,6 @@ I also build for the African market, where offline tolerance, SMS-first UX, and 
     </td>
   </tr>
 </table>
-
----
-
-## Technology Stack
-
-**Languages** — `Go` · `TypeScript` · `Python` · `C` · `C#` · `Rust` · `SQL` · `Bash`
-
-Backend services, systems programming, and tooling.
-
-**Frontend** — `React` · `Vite` · `TanStack Query` · `Tailwind CSS` · `Radix UI` · `React Router`
-
-Typed interfaces, data-heavy dashboards, and accessible component systems.
-
-**Backend & APIs** — `Go` · `gqlgen / GraphQL` · `ASP.NET Core` · `Node.js` · `REST` · `Server-Sent Events` · `gRPC`
-
-API design, realtime transport, and service boundaries that stay honest under load.
-
-**Data** — `PostgreSQL` · `Redis` · `SQLite` · `Elasticsearch` · `EF Core`
-
-Relational modelling, caching layers, and search.
-
-**Infrastructure** — `Docker` · `Kubernetes` · `Caddy` · `Traefik` · `GitHub Actions` · `Terraform` · `AWS` · `Linux`
-
-Containerised delivery, automated pipelines, and reproducible environments.
-
-<div align="center">
-
-![Go](https://img.shields.io/badge/Go-0A0F0D?style=flat-square&logo=go&logoColor=00ADD8)
-![TypeScript](https://img.shields.io/badge/TypeScript-0A0F0D?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0A0F0D?style=flat-square&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-0A0F0D?style=flat-square&logo=c&logoColor=A8B9CC)
-![C#](https://img.shields.io/badge/C%23-0A0F0D?style=flat-square&logo=dotnet&logoColor=512BD4)
-![Rust](https://img.shields.io/badge/Rust-0A0F0D?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/React-0A0F0D?style=flat-square&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0F0D?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Redis](https://img.shields.io/badge/Redis-0A0F0D?style=flat-square&logo=redis&logoColor=DC382D)
-![Docker](https://img.shields.io/badge/Docker-0A0F0D?style=flat-square&logo=docker&logoColor=2496ED)
-
-</div>
 
 ---
 
