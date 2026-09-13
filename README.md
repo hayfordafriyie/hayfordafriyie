@@ -73,6 +73,8 @@ My work runs from **distributed web platforms** (realtime APIs, job queues, obse
 
 <div align="center">
 
+[![committers.top rank badge: Hayford Afriyie, #23 in Ghana](https://user-badge.committers.top/ghana_private/hayfordafriyie.svg)](https://user-badge.committers.top/ghana_private/hayfordafriyie)
+
 <img width="700" alt="Hayford Afriyie GitHub profile summary: total contributions, public repositories and one-year contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hayfordafriyie&theme=github_dark" />
 
 <img width="340" alt="Hayford Afriyie GitHub statistics: total stars, commits, pull requests and issues" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hayfordafriyie&theme=github_dark" />
