@@ -1,43 +1,161 @@
 <div align="center">
 
-# Hayford Afriyie
+<img width="100%" alt="Hayford Afriyie — Software Engineer, Full-Stack, Cloud and Systems, Accra Ghana" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0E2A3A,100:00D4FF&height=200&section=header&text=Hayford%20Afriyie&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20Cloud%20%7C%20Systems&descAlignY=58&descSize=16&animation=fadeIn" />
 
-### Software Engineer — Full-Stack, Cloud & Systems
+<a href="https://git.io/typing-svg">
+  <img alt="Hayford Afriyie — building production software, full-stack, cloud and distributed systems" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Building+Production+Software;Full-Stack+Go+%7C+TypeScript+%7C+React;Cloud+and+Distributed+Systems;Systems+Programming+in+C+and+Rust;Building+for+Africa+and+Beyond" />
+</a>
 
-**Accra, Ghana 🇬🇭** · Building production software for Africa and beyond
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/hayfordafriyie.com-0B1220?style=flat-square&logo=googlechrome&logoColor=00D4FF)](https://hayfordafriyie.com)
-[![Email](https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=protonmail&logoColor=8B89CC)](mailto:hayfordafriyie@protonmail.ch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hayford-afriyie-26b34b207/)
-[![X](https://img.shields.io/badge/X-0B1220?style=flat-square&logo=x&logoColor=white)](https://twitter.com/HayfordAfriyie_)
+[![Portfolio](https://img.shields.io/badge/hayfordafriyie.com-0B1220?style=for-the-badge&logo=googlechrome&logoColor=00D4FF)](https://hayfordafriyie.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/hayford-afriyie-26b34b207/)
+[![Email](https://img.shields.io/badge/Email-Contact-0B1220?style=for-the-badge&logo=protonmail&logoColor=8B89CC)](mailto:hayfordafriyie@protonmail.ch)
+[![X](https://img.shields.io/badge/X-Follow-0B1220?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/HayfordAfriyie_)
 
-![Open to opportunities](https://img.shields.io/badge/Open_to_opportunities-Yes-00D4FF?style=flat-square&labelColor=0B1220)
+<br/>
+
+[![committers.top rank badge: Hayford Afriyie, #23 in Ghana by contributions over the last year](https://user-badge.committers.top/ghana_private/hayfordafriyie.svg)](https://user-badge.committers.top/ghana_private/hayfordafriyie)
 
 </div>
 
 ---
 
-## About
-
-I'm a **software engineer based in Accra, Ghana**, working across the full stack — typed front-ends, high-throughput Go and .NET services, relational data modelling, and the infrastructure that ships them. I care about systems that stay fast and legible as they grow: explicit interfaces, measured performance, and tests that document intent.
-
-My work runs from **distributed web platforms** (realtime APIs, job queues, observability) down to **operating-system kernels and low-level tooling**. I also build for the African market, where offline tolerance, SMS-first UX, and bandwidth discipline are engineering requirements rather than afterthoughts.
-
-**Focus areas:** distributed systems · API design · developer tooling · AI-assisted reliability · systems programming
+> **"Simplicity is a prerequisite for reliability."**
+> — Edsger W. Dijkstra
 
 ---
 
-## Tech Stack
+## About
 
-**Languages** — `Go` · `TypeScript` · `Python` · `C` · `C#` · `Rust` · `SQL` · `Bash`
+I'm **Hayford Afriyie**, a **software engineer based in Accra, Ghana**, working across the full stack — typed front-ends, high-throughput Go and .NET services, relational data modelling, and the infrastructure that ships them.
 
-**Frontend** — `React` · `Vite` · `TanStack Query` · `Tailwind CSS` · `Radix UI` · `React Router`
+My work runs from **distributed web platforms** — realtime APIs, background workers, observability — down to **operating-system kernels and low-level tooling**. I care about systems that stay fast and legible as they grow: explicit interfaces, measured performance, and tests that document intent.
 
-**Backend & APIs** — `Go` · `gqlgen / GraphQL` · `ASP.NET Core` · `Node.js` · `REST` · `Server-Sent Events` · `gRPC`
+I also build for the African market, where offline tolerance, SMS-first UX, and bandwidth discipline are engineering requirements rather than afterthoughts.
 
-**Data** — `PostgreSQL` · `Redis` · `SQLite` · `Elasticsearch` · `EF Core`
+**Focus areas**
 
-**Infrastructure** — `Docker` · `Kubernetes` · `Caddy` · `Traefik` · `GitHub Actions` · `Terraform` · `AWS` · `Linux`
+- distributed systems and API design
+- developer tooling and automation
+- AI-assisted reliability engineering
+- systems programming
+- cloud infrastructure
+
+---
+
+## Selected Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">AfriyieOS</h3>
+      <p align="center">
+        <a href="https://github.com/hayfordafriyie/AfriyieOS">
+          <img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=0B1220" alt="View the AfriyieOS repository" />
+        </a>
+      </p>
+      <p>A minimal microkernel operating system written from scratch, targeting x86_64 PCs and ARM64 phones. Boot sequence, physical and virtual memory management, and a scheduler — with no third-party kernel underneath.</p>
+      <p><strong>Stack:</strong> C · Assembly · x86_64 · ARM64</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">devsup</h3>
+      <p align="center">
+        <a href="https://github.com/hayfordafriyie/devsup">
+          <img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=0B1220" alt="View the devsup repository" />
+        </a>
+      </p>
+      <p>AI-driven API failure detection and auto-repair. Middleware reports failures in production, an agent investigates the root cause, proposes the fix, and emails the team — closing the loop between detection and repair.</p>
+      <p><strong>Stack:</strong> C# · .NET · LLM Tooling · Observability</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Task Manager</h3>
+      <p align="center">
+        <a href="https://github.com/hayfordafriyie/taskmanager">
+          <img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=0B1220" alt="View the taskmanager repository" />
+        </a>
+      </p>
+      <p>A full-stack team task platform: Kanban board, goals and OKRs, permissioned docs, time tracking, reports, a realtime chat inbox, and SMS alerts for the events that matter.</p>
+      <p><strong>Stack:</strong> Go · GraphQL · PostgreSQL · Redis · React 19</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">URL Shortener</h3>
+      <p align="center">
+        <a href="https://github.com/hayfordafriyie/url-shortener">
+          <img src="https://img.shields.io/badge/View%20Repo-00D4FF?style=for-the-badge&logo=github&logoColor=0B1220" alt="View the url-shortener repository" />
+        </a>
+      </p>
+      <p>An ASP.NET Core minimal API with a clean persistence boundary and integration tests driven through <code>WebApplicationFactory</code> — a compact reference for structuring a small, well-tested service.</p>
+      <p><strong>Stack:</strong> C# · EF Core · SQLite · xUnit</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">HealthTech4Africa</h3>
+      <p align="center">
+        <a href="https://healthtech4africa.vercel.app">
+          <img src="https://img.shields.io/badge/Visit%20Site-00D4FF?style=for-the-badge&logo=vercel&logoColor=0B1220" alt="Visit the HealthTech4Africa site" />
+        </a>
+      </p>
+      <p>Health-technology tooling for African clinics, built low-bandwidth-first: fast on poor connections, tolerant of intermittent connectivity, and usable on modest devices.</p>
+      <p><strong>Stack:</strong> JavaScript · Vercel · Accessibility</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">pdf2docx</h3>
+      <p align="center">
+        <a href="https://pdf2docx-ashy.vercel.app">
+          <img src="https://img.shields.io/badge/Visit%20Site-00D4FF?style=for-the-badge&logo=vercel&logoColor=0B1220" alt="Visit the pdf2docx converter site" />
+        </a>
+      </p>
+      <p>A focused document-conversion utility — fast, client-friendly, and frictionless. No signup, no queue, no ceremony: drop a file, get a document.</p>
+      <p><strong>Stack:</strong> JavaScript · Document Processing · Vercel</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Technology Stack
+
+**Languages**
+
+`Go` · `TypeScript` · `Python` · `C` · `C#` · `Rust` · `SQL` · `Bash`
+
+Backend services, systems programming, and tooling.
+
+<br/>
+
+**Frontend**
+
+`React` · `Vite` · `TanStack Query` · `Tailwind CSS` · `Radix UI` · `React Router`
+
+Typed interfaces, data-heavy dashboards, and accessible component systems.
+
+<br/>
+
+**Backend & APIs**
+
+`Go` · `gqlgen / GraphQL` · `ASP.NET Core` · `Node.js` · `REST` · `Server-Sent Events` · `gRPC`
+
+API design, realtime transport, and service boundaries that stay honest under load.
+
+<br/>
+
+**Data**
+
+`PostgreSQL` · `Redis` · `SQLite` · `Elasticsearch` · `EF Core`
+
+Relational modelling, caching layers, and search.
+
+<br/>
+
+**Infrastructure**
+
+`Docker` · `Kubernetes` · `Caddy` · `Traefik` · `GitHub Actions` · `Terraform` · `AWS` · `Linux`
+
+Containerised delivery, automated pipelines, and reproducible environments.
 
 <div align="center">
 
@@ -45,7 +163,7 @@ My work runs from **distributed web platforms** (realtime APIs, job queues, obse
 ![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-0B1220?style=flat-square&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/C-0B1220?style=flat-square&logo=c&logoColor=A8B9CC)
-![C#](https://img.shields.io/badge/C%23-0B1220?style=flat-square&logo=dotnet&logoColor=512BD4)
+![C%23](https://img.shields.io/badge/C%23-0B1220?style=flat-square&logo=dotnet&logoColor=512BD4)
 ![Rust](https://img.shields.io/badge/Rust-0B1220?style=flat-square&logo=rust&logoColor=white)
 ![React](https://img.shields.io/badge/React-0B1220?style=flat-square&logo=react&logoColor=61DAFB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=flat-square&logo=postgresql&logoColor=4169E1)
@@ -56,29 +174,11 @@ My work runs from **distributed web platforms** (realtime APIs, job queues, obse
 
 ---
 
-## Selected Work
-
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[AfriyieOS](https://github.com/hayfordafriyie/AfriyieOS)** | A minimal microkernel operating system written from scratch, targeting x86_64 PCs and ARM64 phones — boot, memory management and scheduler with no third-party kernel. | `C` · `Assembly` · `x86_64` · `ARM64` |
-| **[devsup](https://github.com/hayfordafriyie/devsup)** | AI-driven API failure detection and auto-repair. Middleware reports failures, an agent investigates the root cause, opens the fix, and emails the team. | `C#` · `.NET` · `LLM tooling` |
-| **[taskmanager](https://github.com/hayfordafriyie/taskmanager)** | A team task platform: Kanban board, OKRs, permissioned docs, time tracking, reports, a realtime chat inbox and SMS alerts for the events that matter. | `Go` · `GraphQL` · `PostgreSQL` · `Redis` · `React 19` |
-| **[url-shortener](https://github.com/hayfordafriyie/url-shortener)** | An ASP.NET Core minimal API URL shortener with a clean persistence boundary and integration tests via `WebApplicationFactory`. | `C#` · `EF Core` · `SQLite` · `xUnit` |
-| **[healthtech4africa](https://healthtech4africa.vercel.app)** | A health-technology initiative for African clinics — accessible, low-bandwidth-first web tooling. | `JavaScript` · `Vercel` |
-| **[pdf2docx](https://pdf2docx-ashy.vercel.app)** | A focused document-conversion utility — fast, client-friendly, no signup. | `JavaScript` · `Vercel` |
-
----
-
 ## GitHub Activity
 
 <div align="center">
 
-[![committers.top rank badge: Hayford Afriyie, #23 in Ghana](https://user-badge.committers.top/ghana_private/hayfordafriyie.svg)](https://user-badge.committers.top/ghana_private/hayfordafriyie)
-
 <img width="700" alt="Hayford Afriyie GitHub profile summary: total contributions, public repositories and one-year contribution graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hayfordafriyie&theme=github_dark" />
-
-<img width="340" alt="Hayford Afriyie GitHub statistics: total stars, commits, pull requests and issues" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hayfordafriyie&theme=github_dark" />
-<img width="340" alt="Hayford Afriyie most used programming languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hayfordafriyie&theme=github_dark" />
 
 <img width="495" alt="Hayford Afriyie total contributions, current streak and longest streak" src="https://streak-stats.demolab.com/?user=hayfordafriyie&hide_border=true&background=00000000&stroke=00D4FF&ring=00D4FF&fire=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideLabels=8B949E&dates=8B949E" />
 
@@ -95,6 +195,11 @@ My work runs from **distributed web platforms** (realtime APIs, job queues, obse
 ---
 
 <div align="center">
+
+![Systems](https://img.shields.io/badge/Systems-0B1220?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Backend](https://img.shields.io/badge/Backend-0B1220?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Cloud](https://img.shields.io/badge/Cloud-0B1220?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+![Open%20Source](https://img.shields.io/badge/Open%20Source-0B1220?style=for-the-badge&logo=github&logoColor=white)
 
 **Open to software engineering roles and consulting — remote or based in Accra.**
 
